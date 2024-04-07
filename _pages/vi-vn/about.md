@@ -1,26 +1,19 @@
 ---
 page_id: about
 layout: about
-title: about
+title: Vietnam
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Giảng viên, <a href='https://portal.ptit.edu.vn/ktdt1/'>Khoa Kỹ thuật Điện tử 1</a>. Học viện Công nghệ Bưu chính Viễn Thông (PTIT)<br>Km10, Đường Nguyễn Trãi, Hà Đông, Hà Nội, Việt Nam<br>anhph [at] ptit.edu.vn 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: hoanganh.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 news: true # includes a list of news items
+latest_posts: true # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hiện tại, tôi là Giảng viên, Khoa Kỹ thuật Điện tử 1, Học viện Công nghệ Bưu chính viễn thông.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/multi-language-al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
