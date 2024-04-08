@@ -4,8 +4,8 @@ layout: page
 title: Dự án
 permalink: /projects/
 description: Uma crescente coleção de seus projetos interessantes.
-nav: false
-nav_order: 3
+nav: true
+nav_order: 2
 display_categories: [work, fun]
 horizontal: false
 ---

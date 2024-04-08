@@ -5,7 +5,7 @@ permalink: /publications/
 title: Bài báo
 description: Danh mục các bài báo đã xuất bản
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 
 <!-- _pages/publications.md -->
