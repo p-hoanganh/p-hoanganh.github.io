@@ -2,8 +2,8 @@
 page_id: publications
 layout: page
 permalink: /publications/
-title: publicações
-description: publicações por categoria em ordem cronológica reversa. gerado pelo jekyll-scholar.
+title: Bài báo
+description: Danh mục các bài báo đã xuất bản
 nav: true
 nav_order: 2
 ---

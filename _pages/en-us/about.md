@@ -1,7 +1,7 @@
 ---
 page_id: about
 layout: about
-title: english
+title: Home
 permalink: /
 subtitle: Lecturer, <a href='https://portal.ptit.edu.vn/ktdt1/'>Faculty of Electronics Engineering 1</a>, Post and Telecommunications Institute of Techonology (PTIT)<br>Km10, Nguyen Trai road, HaDong, Hanoi, Vietnam <br>anhph [at] ptit.edu.vn 
 
@@ -12,8 +12,10 @@ profile:
   more_info: >
 
 news: true # includes a list of news items
+latest_posts: true # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
+
 ---
 
 Hi, I'am a lecturer (a.k.a Assistant professor) at the [Faculty of Electronics Engineering](https://portal.ptit.edu.vn/ktdt1/), **Post and Telecommunications Institute of Techonology**.<br> 
