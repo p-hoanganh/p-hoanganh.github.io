@@ -8,9 +8,4 @@ nav: true
 nav_order: 3
 ---
 
-<!-- _pages/publications.md -->
-<div class="publications">
-
-{% bibliography %}
-
-</div>
+Please see [Google Scholar](https://scholar.google.com/citations?user=Kh5aRXIAAAAJ&hl=en)
