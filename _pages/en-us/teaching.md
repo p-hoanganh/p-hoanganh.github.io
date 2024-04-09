@@ -13,11 +13,11 @@ nav_order: 4
 
 
 ### Supervisions
-#### Ph.D Student
+##### Ph.D Student
 1. **Cao Tan Minh** (University of Toulon, France, 01/2024 - present, co-advised with Prof. Thierry SORIANO and Prof. Valentin GIES).
 Topic: *Design methodology and algorithm for robot swarms*. Financed by the PACA region, France
 
-#### Graduate students
+##### Graduate students
 1.  **Le Bihan Thibault** and **Alexis Rozier**, |  ́(Ecole d’Ingenieurs SeaTech, University of Toulon, France).
 Topic: *Tracking the course of an autonomous sailboat*. Thesis defense: Dec. 2022 
 

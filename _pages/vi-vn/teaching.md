@@ -8,11 +8,11 @@ nav: true
 nav_order: 4
 ---
 
-### Teaching
+### Giảng dạy
 1. **Robot simulation programming using ROS/Gazebo**, University of Toulon, France, Spring 2018-present. 
 
 
-### Supervisions
+### Hướng dẫn
 ##### Ph.D Student
 1. **Cao Tan Minh** (University of Toulon, France, 01/2024 - present, co-advised with Prof. Thierry SORIANO and Prof. Valentin GIES).
 Topic: *Design methodology and algorithm for robot swarms*. Financed by the PACA region, France

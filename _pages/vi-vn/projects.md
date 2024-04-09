@@ -3,11 +3,11 @@ page_id: projects
 layout: page
 title: Dự án
 permalink: /projects/
-description: Uma crescente coleção de seus projetos interessantes.
+description:
 nav: true
 nav_order: 2
 display_categories: [work, fun]
 horizontal: false
 ---
 
-Please see [my CV]()
+Please see [my CV](https://p-hoanganh.github.io/assets/pdf/en-us/CV___Hoang_Anh_PHAM___last_updated_Jan_2024.pdf)
