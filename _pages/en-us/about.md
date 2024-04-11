@@ -18,8 +18,9 @@ social: false # includes social icons at the bottom of the page
 
 ---
 
-Hi, I'am a lecturer (a.k.a Assistant professor) at the [Faculty of Electronics Engineering](https://portal.ptit.edu.vn/ktdt1/), **Post and Telecommunications Institute of Techonology**.<br> 
-I received my Ph.D. degree in **Robotics and Automation** from the [University of Toulon](https://ed548.univ-tln.fr/en/home/), France, in 2021. My thesis is **Coordination of Autonomous Underwater Systems Based on an Integrated Methodology in an Open-source Environment**. PhD program financed by French Ministry of Education, France.<br>
+Currently, I am doing a post-doc at the University of Toulon, mainly researching [the coordination of multiple robots in limited communication conditions](https://anr.fr/Project-ANR-21-ASRO-0002). This research is financed by a program that specifically supports research and innovation work in defense in France.
+
+I received my Ph.D. degree in **Robotics and Automation** from the [University of Toulon](https://ed548.univ-tln.fr/en/home/), France, in 2021. My thesis is **Coordination of Autonomous Underwater Systems Based on an Integrated Methodology in an Open-source Environment**. My PhD program financed by French Ministry of Education, France.<br>
 
 ---
 
