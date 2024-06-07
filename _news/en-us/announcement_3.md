@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:sparkles: Our RCT team ([Univerity of Toulon, France](https://msl.robocup.org/history/2024-qualification-results)) placed **Second** in the qualifying round of the 2024 **Soccer Robot competition** :sparkles:. The RoboCup MSL competitions will be hold in Eindhoven, The Netherlands
+:sparkles: Our RCT team ([Univerity of Toulon, France](https://msl.robocup.org/history/2024-qualification-results)) placed **Second** in the qualifying round of the 2024 **Soccer Robot competition** :sparkles:. It will be held in Eindhoven, The Netherlands.
