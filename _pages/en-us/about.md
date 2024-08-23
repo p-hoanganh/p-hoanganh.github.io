@@ -3,7 +3,7 @@ page_id: about
 layout: about
 title: Home
 permalink: /
-subtitle: Lecturer, <a href='https://portal.ptit.edu.vn/ktdt1/'>Faculty of Electronics Engineering 1</a>, Post and Telecommunications Institute of Techonology (PTIT)<br>Km10, Nguyen Trai road, HaDong, Hanoi, Vietnam <br>anhph [at] ptit.edu.vn 
+subtitle: Lecturer, <a href='https://portal.ptit.edu.vn/ktdt1/'>Faculty of Electronics Engineering 1</a>, Post and Telecommunications Institute of Technology (PTIT)<br>Km10, Nguyen Trai road, HaDong, Hanoi, Vietnam <br>anhph [at] ptit.edu.vn 
 
 profile:
   align: right
